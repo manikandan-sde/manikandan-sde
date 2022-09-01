@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manikandan-sde
+- 👋 Hi, I’m Manikandan C
 - 👀 I’m interested in  Web/App development.
 - 🌱 I’m currently learning Full Stack Web Development and Android App development .
 
